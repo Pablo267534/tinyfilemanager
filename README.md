@@ -73,3 +73,5 @@ To enable/disable authentication set `$use_auth` to true or false.
 - CDN Used - _jQuery, Bootstrap, Font Awesome, Highlight js, ace js, DropZone js, and DataTable js_
 - To report a bug or request a feature, please file an [issue](https://github.com/prasathmani/tinyfilemanager/issues)
 - [Contributors](https://github.com/prasathmani/tinyfilemanager/wiki/Authors-and-Contributors)
+
+### end
